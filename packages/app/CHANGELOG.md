@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/cschroeter/consilio/compare/@consilio/app@1.1.0...@consilio/app@1.2.0) (2019-10-10)
+
+### Features
+
+- **app:** add paragraph ([a2b26c1](https://github.com/cschroeter/consilio/commit/a2b26c1509b7a4b224e451f03dede88472c73d69))
+
 # 1.1.0 (2019-10-10)
 
 ### Features
