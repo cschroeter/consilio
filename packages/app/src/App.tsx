@@ -6,7 +6,7 @@ interface Props {}
 export const App: React.FC<Props> = () => {
   return (
     <div>
-      <h1>Hello</h1>
+      <h1>Hello World</h1>
       <Button onClick={() => console.log("blub")} />
     </div>
   );
