@@ -2,6 +2,7 @@ import React from 'react'
 
 interface Props {
   onClick: () => void
+  size?: string
 }
 
 export const Button: React.FC<Props> = (props) => {
