@@ -12,8 +12,5 @@ jobs:
           name: build
           command: yarn build
       - run:
-          name: Configure git defaults
-          command: git config user.email "dev@cschroeter.net" && git config user.name "Christian Schröter"
-      - run:
           name: release
-          command: npm run release || true
+          command: npm run release
