@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.4](https://github.com/cschroeter/consilio/compare/@consilio/app@1.3.3...@consilio/app@1.3.4) (2019-10-10)
+
+
+### Bug Fixes
+
+* **circleci:** hopefully the last ([d141d46](https://github.com/cschroeter/consilio/commit/d141d46e2bad03cacbda6235550ca686449c556d))
+
+
+
+
+
 ## [1.3.3](https://github.com/cschroeter/consilio/compare/@consilio/app@1.3.2...@consilio/app@1.3.3) (2019-10-10)
 
 
