@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.3](https://github.com/cschroeter/consilio/compare/@consilio/app@1.2.2...@consilio/app@1.2.3) (2019-10-10)
+
+### Bug Fixes
+
+- **build:** set acdess to public ([1ade168](https://github.com/cschroeter/consilio/commit/1ade168372dfb373ddbe5fb8336b658a80c31552))
+
 ## [1.2.2](https://github.com/cschroeter/consilio/compare/@consilio/app@1.2.1...@consilio/app@1.2.2) (2019-10-10)
 
 ### Bug Fixes
