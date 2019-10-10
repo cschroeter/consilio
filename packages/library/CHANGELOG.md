@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.3](https://github.com/cschroeter/consilio/compare/@consilio/library@1.3.2...@consilio/library@1.3.3) (2019-10-10)
+
+### Bug Fixes
+
+- **button:** remove whitespace ([8a084fb](https://github.com/cschroeter/consilio/commit/8a084fb57a79d212ce1da506a299d12fc441f7df))
+
 ## [1.3.2](https://github.com/cschroeter/consilio/compare/@consilio/library@1.3.1...@consilio/library@1.3.2) (2019-10-10)
 
 ### Bug Fixes
