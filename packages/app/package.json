@@ -1,8 +1,8 @@
 {
   "name": "@consilio/app",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "dependencies": {
-    "@consilio/library": "1.0.0",
+    "@consilio/library": "^1.1.0",
     "react": "16.10.2",
     "react-dom": "16.10.2"
   },
