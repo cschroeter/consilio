@@ -1,6 +1,9 @@
 {
   "name": "@consilio/app",
   "version": "1.2.2",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@consilio/library": "^1.1.0",
     "react": "16.10.2",
@@ -34,5 +37,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "gitHead": "fbe47ca1e92d28d580bafb20b754e784392fab2a"
 }
