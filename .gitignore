@@ -126,4 +126,5 @@ public/
 dist
 build
 
+.npmrc
 # End of https://www.gitignore.io/api/node,macos

@@ -6,14 +6,17 @@ jobs:
     steps:
       - checkout
       - run:
-          name: install
+          name: Authenticate with registry
+          command: echo "//registry.npmjs.org/:_authToken=${NPM_TOKEN}" > .npmrc
+      - run:
+          name: Intall dependencies
           command: yarn install
       - run:
-          name: build
+          name: Build projects
           command: yarn build
       - run:
           name: Configure git defaults
           command: git config user.email "dev@cschroeter.net" && git config user.name "Christian Schröter"
       - run:
-          name: release
+          name: Release projects
           command: npm run release
