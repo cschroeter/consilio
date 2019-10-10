@@ -1,0 +1,22 @@
+{
+  "name": "@consilio/library",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc -w",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "react": "16.10.2",
+    "react-dom": "16.10.2"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.5",
+    "prettier": "1.18.2",
+    "typescript": "3.6.3"
+  }
+}
