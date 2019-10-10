@@ -8,6 +8,7 @@ export const App: React.FC<Props> = () => {
     <div>
       <h1>Hello World</h1>
       <p>This a demo app</p>
+      <p>This a demo app</p>
       <Button onClick={() => console.log('Button has been clicked.')} />
     </div>
   )
