@@ -5,7 +5,8 @@
     "packages/*"
   ],
   "scripts": {
-    "start": "lerna run start --parallel"
+    "start": "lerna run start --parallel",
+    "publish": "lerna publish"
   },
   "devDependencies": {
     "@commitlint/cli": "8.2.0",
