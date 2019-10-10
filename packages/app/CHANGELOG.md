@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.4](https://github.com/cschroeter/consilio/compare/@consilio/app@1.2.3...@consilio/app@1.2.4) (2019-10-10)
+
+**Note:** Version bump only for package @consilio/app
+
 ## [1.2.3](https://github.com/cschroeter/consilio/compare/@consilio/app@1.2.2...@consilio/app@1.2.3) (2019-10-10)
 
 ### Bug Fixes
