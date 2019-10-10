@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/cschroeter/consilio/compare/@consilio/library@1.2.0...@consilio/library@1.3.0) (2019-10-10)
+
+
+### Features
+
+* **new:** something new ([91951a1](https://github.com/cschroeter/consilio/commit/91951a103507f2b3c0b40cbc057bcfa74e4bb24d))
+
+
+
+
+
 # [1.2.0](https://github.com/cschroeter/consilio/compare/@consilio/library@1.1.1...@consilio/library@1.2.0) (2019-10-10)
 
 ### Features
