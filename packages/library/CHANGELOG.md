@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/cschroeter/consilio/compare/@consilio/library@1.1.1...@consilio/library@1.2.0) (2019-10-10)
+
+### Features
+
+- **button:** allow to set size ([635cb2a](https://github.com/cschroeter/consilio/commit/635cb2ae077f994117375979a278e6044083049c))
+
 ## [1.1.1](https://github.com/cschroeter/consilio/compare/@consilio/library@1.1.0...@consilio/library@1.1.1) (2019-10-10)
 
 ### Bug Fixes
