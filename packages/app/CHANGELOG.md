@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/cschroeter/consilio/compare/@consilio/app@1.4.1...@consilio/app@1.5.0) (2019-10-10)
+
+
+### Features
+
+* **app:** add ex ([eb19fe7](https://github.com/cschroeter/consilio/commit/eb19fe7521fce812cf924bd02b361e78f384ac52))
+* **app:** something ([917535b](https://github.com/cschroeter/consilio/commit/917535bd28da707f74067e0a0fef893c44a88e3c))
+
+
+
+
+
 ## [1.4.1](https://github.com/cschroeter/consilio/compare/@consilio/app@1.4.0...@consilio/app@1.4.1) (2019-10-10)
 
 **Note:** Version bump only for package @consilio/app
