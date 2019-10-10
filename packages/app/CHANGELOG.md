@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/cschroeter/consilio/compare/@consilio/app@1.2.0...@consilio/app@1.2.1) (2019-10-10)
+
+### Bug Fixes
+
+- **app:** change console out ([f606dbd](https://github.com/cschroeter/consilio/commit/f606dbd7ef977014be8510c9887dab01411c9832))
+
 # [1.2.0](https://github.com/cschroeter/consilio/compare/@consilio/app@1.1.0...@consilio/app@1.2.0) (2019-10-10)
 
 ### Features
