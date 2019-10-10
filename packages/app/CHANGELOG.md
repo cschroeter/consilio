@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.2](https://github.com/cschroeter/consilio/compare/@consilio/app@1.2.1...@consilio/app@1.2.2) (2019-10-10)
+
+### Bug Fixes
+
+- **app:** add missing dot ([92c074d](https://github.com/cschroeter/consilio/commit/92c074d256d71fb4df2d1be65d7a8053235b4de0))
+
 ## [1.2.1](https://github.com/cschroeter/consilio/compare/@consilio/app@1.2.0...@consilio/app@1.2.1) (2019-10-10)
 
 ### Bug Fixes

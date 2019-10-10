@@ -1,6 +1,6 @@
 {
   "name": "@consilio/app",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "dependencies": {
     "@consilio/library": "^1.1.0",
     "react": "16.10.2",
