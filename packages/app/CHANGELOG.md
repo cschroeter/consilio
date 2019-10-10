@@ -3,69 +3,44 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.5.0](https://github.com/cschroeter/consilio/compare/@consilio/app@1.4.1...@consilio/app@1.5.0) (2019-10-10)
+## [1.5.1](https://github.com/cschroeter/consilio/compare/@consilio/app@1.5.0...@consilio/app@1.5.1) (2019-10-10)
 
+**Note:** Version bump only for package @consilio/app
+
+# [1.5.0](https://github.com/cschroeter/consilio/compare/@consilio/app@1.4.1...@consilio/app@1.5.0) (2019-10-10)
 
 ### Features
 
-* **app:** add ex ([eb19fe7](https://github.com/cschroeter/consilio/commit/eb19fe7521fce812cf924bd02b361e78f384ac52))
-* **app:** something ([917535b](https://github.com/cschroeter/consilio/commit/917535bd28da707f74067e0a0fef893c44a88e3c))
-
-
-
-
+- **app:** add ex ([eb19fe7](https://github.com/cschroeter/consilio/commit/eb19fe7521fce812cf924bd02b361e78f384ac52))
+- **app:** something ([917535b](https://github.com/cschroeter/consilio/commit/917535bd28da707f74067e0a0fef893c44a88e3c))
 
 ## [1.4.1](https://github.com/cschroeter/consilio/compare/@consilio/app@1.4.0...@consilio/app@1.4.1) (2019-10-10)
 
 **Note:** Version bump only for package @consilio/app
 
-
-
-
-
 # [1.4.0](https://github.com/cschroeter/consilio/compare/@consilio/app@1.3.4...@consilio/app@1.4.0) (2019-10-10)
-
 
 ### Features
 
-* **new:** something new ([91951a1](https://github.com/cschroeter/consilio/commit/91951a103507f2b3c0b40cbc057bcfa74e4bb24d))
-
-
-
-
+- **new:** something new ([91951a1](https://github.com/cschroeter/consilio/commit/91951a103507f2b3c0b40cbc057bcfa74e4bb24d))
 
 ## [1.3.4](https://github.com/cschroeter/consilio/compare/@consilio/app@1.3.3...@consilio/app@1.3.4) (2019-10-10)
 
-
 ### Bug Fixes
 
-* **circleci:** hopefully the last ([d141d46](https://github.com/cschroeter/consilio/commit/d141d46e2bad03cacbda6235550ca686449c556d))
-
-
-
-
+- **circleci:** hopefully the last ([d141d46](https://github.com/cschroeter/consilio/commit/d141d46e2bad03cacbda6235550ca686449c556d))
 
 ## [1.3.3](https://github.com/cschroeter/consilio/compare/@consilio/app@1.3.2...@consilio/app@1.3.3) (2019-10-10)
 
-
 ### Bug Fixes
 
-* **app:** remove paragraph ([2284289](https://github.com/cschroeter/consilio/commit/2284289bd2e2553a77b0fd47d92f6479de2c715c))
-
-
-
-
+- **app:** remove paragraph ([2284289](https://github.com/cschroeter/consilio/commit/2284289bd2e2553a77b0fd47d92f6479de2c715c))
 
 ## [1.3.2](https://github.com/cschroeter/consilio/compare/@consilio/app@1.3.1...@consilio/app@1.3.2) (2019-10-10)
 
-
 ### Bug Fixes
 
-* **app:** remove paragraph ([0e3bd07](https://github.com/cschroeter/consilio/commit/0e3bd07cc9f5c0fc0f4174b46bf9f123b45186ba))
-
-
-
-
+- **app:** remove paragraph ([0e3bd07](https://github.com/cschroeter/consilio/commit/0e3bd07cc9f5c0fc0f4174b46bf9f123b45186ba))
 
 ## [1.3.1](https://github.com/cschroeter/consilio/compare/@consilio/app@1.3.0...@consilio/app@1.3.1) (2019-10-10)
 
