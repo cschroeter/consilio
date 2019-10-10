@@ -6,5 +6,5 @@ interface Props {
 }
 
 export const Button: React.FC<Props> = (props) => {
-  return <button onClick={props.onClick}>Hello World !</button>
+  return <button onClick={props.onClick}>Hello World!</button>
 }
