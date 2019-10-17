@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/cschroeter/consilio/compare/@consilio/library@1.3.4...@consilio/library@1.4.0) (2019-10-17)
+
+### Features
+
+- **button:** set new styleguide color ([573cd75](https://github.com/cschroeter/consilio/commit/573cd75db22792e38f6a6ee72362fd2adf37ecd9))
+
 ## [1.3.4](https://github.com/cschroeter/consilio/compare/@consilio/library@1.3.3...@consilio/library@1.3.4) (2019-10-17)
 
 **Note:** Version bump only for package @consilio/library
