@@ -6,5 +6,12 @@ interface Props {
 }
 
 export const Button: React.FC<Props> = (props) => {
-  return <button onClick={props.onClick}>Hello World!</button>
+  return (
+    <button
+      style={{ backgroundColor: 'lightblue', padding: '0.5rem 1rem', border: 0, fontSize: '1rem' }}
+      onClick={props.onClick}
+    >
+      Hello World!
+    </button>
+  )
 }
