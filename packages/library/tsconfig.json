@@ -8,7 +8,6 @@
     "moduleResolution": "node",
     "downlevelIteration": true,
     "sourceMap": true,
-    "sourceRoot": "../../src/",
     "jsx": "react",
     "outDir": "dist",
     "skipLibCheck": true
