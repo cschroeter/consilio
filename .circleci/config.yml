@@ -19,4 +19,4 @@ jobs:
           command: git config user.email "dev@cschroeter.net" && git config user.name "Christian Schröter"
       - run:
           name: Release projects
-          command: npm run release
+          command: npm run release --yes
