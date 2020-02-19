@@ -3,7 +3,8 @@
   "version": "1.8.0",
   "main": "dist/index.js",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "publishConfig": {
     "access": "public"
