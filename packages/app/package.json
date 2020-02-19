@@ -1,11 +1,11 @@
 {
   "name": "@consilio/app",
-  "version": "1.6.8",
+  "version": "1.6.9",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
-    "@consilio/library": "^1.8.0",
+    "@consilio/library": "^1.9.0",
     "react": "16.12.0",
     "react-dom": "16.12.0"
   },
