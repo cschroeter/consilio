@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./packages",
+    "paths": {
+      "@consilio/library": ["library/src"],
+      "@consilio/app": ["app/src"]
+    }
+  }
+}
