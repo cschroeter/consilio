@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/cschroeter/consilio/compare/@consilio/library@1.4.1...@consilio/library@1.5.0) (2020-02-19)
+
+### Features
+
+- new link ([f1d68b7](https://github.com/cschroeter/consilio/commit/f1d68b73c278c171fa474e86a1d915fc0e703689))
+
 ## [1.4.1](https://github.com/cschroeter/consilio/compare/@consilio/library@1.4.0...@consilio/library@1.4.1) (2020-02-18)
 
 **Note:** Version bump only for package @consilio/library
