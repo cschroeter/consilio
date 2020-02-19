@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/cschroeter/consilio/compare/@consilio/library@1.6.0...@consilio/library@1.7.0) (2020-02-19)
+
+### Features
+
+- set root dir ([b5948b3](https://github.com/cschroeter/consilio/commit/b5948b3ce2a72dcadfb5942cc269d6d670ba5eb6))
+
 # [1.6.0](https://github.com/cschroeter/consilio/compare/@consilio/library@1.5.0...@consilio/library@1.6.0) (2020-02-19)
 
 ### Features
