@@ -10,6 +10,7 @@
     "sourceMap": true,
     "jsx": "react",
     "outDir": "dist",
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "rootDir": "./"
   }
 }
