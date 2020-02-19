@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.8.0](https://github.com/cschroeter/consilio/compare/@consilio/library@1.7.0...@consilio/library@1.8.0) (2020-02-19)
+
+### Features
+
+- use base tsconfig ([4a19173](https://github.com/cschroeter/consilio/commit/4a19173f4f30f65dc8e14636baa9d54b18187884))
+
 # [1.7.0](https://github.com/cschroeter/consilio/compare/@consilio/library@1.6.0...@consilio/library@1.7.0) (2020-02-19)
 
 ### Features
