@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.11](https://github.com/cschroeter/consilio/compare/@consilio/app@1.6.10...@consilio/app@1.6.11) (2020-08-19)
+
+### Bug Fixes
+
+- update readme fixes [#3](https://github.com/cschroeter/consilio/issues/3) ([a6e1a76](https://github.com/cschroeter/consilio/commit/a6e1a76e1d47d35ad73462fe56a0f0f35631f6e5))
+
 ## [1.6.10](https://github.com/cschroeter/consilio/compare/@consilio/app@1.6.9...@consilio/app@1.6.10) (2020-08-19)
 
 **Note:** Version bump only for package @consilio/app
