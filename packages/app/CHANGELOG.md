@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/cschroeter/consilio/compare/@consilio/app@1.6.12...@consilio/app@1.7.0) (2020-08-19)
+
+### Features
+
+- awesome feature fixes Test-3 ([e34271d](https://github.com/cschroeter/consilio/commit/e34271dbc00369a214429f5614153e74f59c10ae))
+
 ## [1.6.12](https://github.com/cschroeter/consilio/compare/@consilio/app@1.6.11...@consilio/app@1.6.12) (2020-08-19)
 
 ### Bug Fixes
