@@ -1,6 +1,6 @@
 {
   "name": "@consilio/app",
-  "version": "1.6.11",
+  "version": "1.6.12",
   "publishConfig": {
     "access": "public"
   },
