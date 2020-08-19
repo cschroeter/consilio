@@ -8,8 +8,9 @@
       "conventionalCommits": true
     },
     "changelogPreset": {
-      "name": "conventionalcommits",
-      "issueUrlFormat": "blub/{{id}}"
+      "name": "conventionalchangelog",
+      "issuePrefixes": ["TEST-"],
+      "issueUrlFormat": "myBugTracker.com/{prefix}{id}"
     },
     "version": {
       "message": "chore(release): publish [skip ci]"
