@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.7.2 (2020-08-19)</small>
+
+- fix: fix stuff #3 ([1ed1d10](https://github.com/cschroeter/consilio/commit/1ed1d10)), closes [#3](https://github.com/cschroeter/consilio/issues/3)
+
 ## <small>1.7.1 (2020-08-19)</small>
 
 - fix: fix stuff #3 ([1ad72bc](https://github.com/cschroeter/consilio/commit/1ad72bc)), closes [#3](https://github.com/cschroeter/consilio/issues/3)
