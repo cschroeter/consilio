@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## <small>1.7.11 (2020-08-20)</small>
+
+- fix: fix stufasdfasdff WME-777 ([f0165b3](https://github.com/cschroeter/consilio/commit/f0165b3))
+
 ### [1.7.10](https://github.com/cschroeter/consilio/compare/@consilio/app@1.7.9...@consilio/app@1.7.10) (2020-08-20)
 
 ### Bug Fixes
