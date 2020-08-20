@@ -9,7 +9,8 @@
       "conventionalCommits": true,
       "changelogPreset": {
         "name": "conventionalcommits",
-        "issueUrlFormat": "myBugTracker.com/{{id}}"
+        "issueUrlFormat": "https://jira.ops.expertcity.com/browse/{{id}}",
+        "issuePrefixes": ["WME-"]
       }
     }
   }
