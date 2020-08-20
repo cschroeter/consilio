@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.7.8](https://github.com/cschroeter/consilio/compare/@consilio/app@1.7.7...@consilio/app@1.7.8) (2020-08-20)
+
+### Bug Fixes
+
+- fix stufasdfasdff WME-553 ([a495281](https://github.com/cschroeter/consilio/commit/a4952819e266b29ace4204219b6fd98a60de84f3))
+
 <a name="1.7.7"></a>
 
 ## [1.7.7](https://github.com/projects/cschroeter/repos/consilio/compare/diff?targetBranch=refs%2Ftags%2F@consilio/app@1.7.6&sourceBranch=refs%2Ftags%2F@consilio/app@1.7.7) (2020-08-20)
