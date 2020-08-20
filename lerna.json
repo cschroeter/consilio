@@ -9,7 +9,7 @@
       "conventionalCommits": true,
       "changelogPreset": {
         "name": "conventionalcommits",
-        "issueUrlFormat": "myBugTracker.com/{id}"
+        "issueUrlFormat": "myBugTracker.com/{{id}}"
       }
     }
   }
