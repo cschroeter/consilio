@@ -8,6 +8,7 @@
       "message": "chore(release): publish [skip ci]",
       "conventionalCommits": true,
       "changelogPreset": {
+        "name": "angular",
         "issueUrlFormat": "https://jira.ops.expertcity.com/browse/{{id}}",
         "issuePrefixes": ["WME-"]
       }
