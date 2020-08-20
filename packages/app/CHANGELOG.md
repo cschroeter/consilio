@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.7.6](https://github.com/cschroeter/consilio/compare/@consilio/app@1.7.5...@consilio/app@1.7.6) (2020-08-20)
+
+### Bug Fixes
+
+- fix stufasdfasdff [WME-553](https://jira.ops.expertcity.com/browse/553) ([9222005](https://github.com/cschroeter/consilio/commit/922200515f364b90f1ebed2b5862494bde68ef10))
+
 ### [1.7.5](https://github.com/cschroeter/consilio/compare/@consilio/app@1.7.4...@consilio/app@1.7.5) (2020-08-20)
 
 ### Bug Fixes
