@@ -8,7 +8,7 @@
       "message": "chore(release): publish [skip ci]",
       "conventionalCommits": true,
       "changelogPreset": {
-        "name": "conventional-changelog-conventionalchangelog",
+        "name": "conventionalcommits",
         "issueUrlFormat": "myBugTracker.com/{id}"
       }
     }
