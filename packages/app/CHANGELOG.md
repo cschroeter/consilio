@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+### [1.7.4](https://github.com/cschroeter/consilio/compare/@consilio/app@1.7.3...@consilio/app@1.7.4) (2020-08-20)
+
+### Bug Fixes
+
+- fix stufasdfasdff [#3](myBugTracker.com/{id}) ([624b688](https://github.com/cschroeter/consilio/commit/624b688c5b3635015e1b8d968320ecd9dde0cb4e))
+- fix stufasdfasdff [#3](myBugTracker.com/{id}) ([c9c58c3](https://github.com/cschroeter/consilio/commit/c9c58c3837c77ca5d027cb694bb4df2388a8bc80))
+
 ## <small>1.7.3 (2020-08-19)</small>
 
 - fix: fix stuff #3 ([03cdd34](https://github.com/cschroeter/consilio/commit/03cdd34)), closes [#3](https://github.com/cschroeter/consilio/issues/3)
