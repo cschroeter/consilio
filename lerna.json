@@ -8,7 +8,7 @@
       "message": "chore(release): publish [skip ci]",
       "conventionalCommits": true,
       "changelogPreset": {
-        "name": "conventionalcommits",
+        "name": "angular-bitbucket",
         "issueUrlFormat": "https://jira.ops.expertcity.com/browse/{{id}}",
         "issuePrefixes": ["WME-"]
       }
