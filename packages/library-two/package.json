@@ -1,5 +1,5 @@
 {
-  "name": "@consilio/library",
+  "name": "@consilio/library-two",
   "version": "1.9.0",
   "main": "dist/index.js",
   "sideEffects": false,
@@ -15,8 +15,5 @@
     "start": "tsc -w",
     "prebuild": "rimraf dist/",
     "build": "tsc"
-  },
-  "dependencies": {
-    "@consilio/library-two": "1.9.0"
   }
 }

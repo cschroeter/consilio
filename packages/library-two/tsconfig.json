@@ -1,0 +1,19 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "module": "esnext",
+    "declaration": true,
+    "target": "es6",
+    "strict": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "downlevelIteration": true,
+    "sourceMap": true,
+    "sourceRoot": "./src",
+    "jsx": "react",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "skipLibCheck": true
+  },
+  "include": ["src/**/*"]
+}

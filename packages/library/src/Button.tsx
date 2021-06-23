@@ -2,13 +2,11 @@ import React from 'react'
 
 interface ButtonProps {
   size?: string
+  onClick: () => void
   children?: React.ReactNode
 }
 
 export const Button = (props: ButtonProps) => {
-  const handleClick = () => {
-    console.log('clicked')
-  }
   return (
     <button
       style={{
@@ -18,7 +16,7 @@ export const Button = (props: ButtonProps) => {
         border: 0,
         fontSize: '1rem',
       }}
-      onClick={handleClick}
+      onClick={props.onClick}
     >
       {props.children}
     </button>
