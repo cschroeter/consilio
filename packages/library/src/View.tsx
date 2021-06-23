@@ -1,22 +1,19 @@
-import React, { useEffect, useState } from 'react'
+import React, { Suspense, useState } from 'react'
 import { Button } from './Button'
 
-export const View = () => {
-  const [isEnabled, setIsEnabled] = useState(false)
-  const [dynamicComponent, setDynamicComponent] = useState<JSX.Element | null>(null)
+// Default Export if possbile
+// const LazyComponent = React.lazy(() => import('@consilio/library-two'))
 
-  useEffect(() => {
-    const load = async () => {
-      const { WallOfText } = await import('@consilio/library-two')
-      setDynamicComponent(<WallOfText />)
-    }
-    isEnabled ? load() : undefined
-  }, [isEnabled])
+// Named Export with Wrapper
+const LazyComponent = React.lazy(() => import('./DefaultExportWrapper'))
+
+export const View = () => {
+  const [showComponent, setShowComponent] = useState(false)
 
   return (
-    <div>
-      <Button onClick={() => setIsEnabled(true)}>Load Component</Button>
-      {dynamicComponent}
-    </div>
+    <Suspense fallback={<div>Loading...</div>}>
+      <Button onClick={() => setShowComponent(true)}>Load Component</Button>
+      {showComponent && <LazyComponent />}
+    </Suspense>
   )
 }
