@@ -2,6 +2,7 @@
   "name": "@consilio/library",
   "version": "1.9.0",
   "main": "dist/index.js",
+  "sideEffects": false,
   "files": [
     "dist",
     "src"
