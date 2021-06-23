@@ -1,13 +1,30 @@
-import React from 'react'
-import { Button } from '@consilio/library'
+import React, { useEffect, useState } from 'react'
 
-interface Props {}
+export const App = () => {
+  const [isActive, setIsActive] = useState(false)
+  const [button, setButton] = useState<JSX.Element | null>(null)
 
-export const App: React.FC<Props> = () => {
+  useEffect(() => {
+    const load = async () => {
+      const { Button } = await import('@consilio/library')
+      setButton(<Button>Hello World</Button>)
+    }
+    isActive ? load() : undefined
+  }, [isActive])
+
   return (
     <div>
-      <h1>Hello World</h1>
-      <Button>Hello Bois</Button>
+      <label>
+        Load Button
+        <input
+          name="isGoing"
+          type="checkbox"
+          style={{ display: 'block' }}
+          checked={isActive}
+          onChange={() => setIsActive(true)}
+        />
+      </label>
+      {button}
     </div>
   )
 }

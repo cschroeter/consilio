@@ -1,10 +1,11 @@
 import React from 'react'
 
-interface Props {
+interface ButtonProps {
   size?: string
+  children?: React.ReactNode
 }
 
-export const Button: React.FC<Props> = (props) => {
+export const Button = (props: ButtonProps) => {
   const handleClick = () => {
     console.log('clicked')
   }
